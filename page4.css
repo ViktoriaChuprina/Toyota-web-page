@@ -1,0 +1,48 @@
+.main-page01{
+    width: 1600px;
+    height: 3500px;
+}
+.download-icon{
+    width: 30px;
+    height: 30px;
+}
+.br-avto{
+    background-color: #F5F5F5;
+    width: 350px;
+    height: 101px;
+    display: flex;
+    flex-direction: row;
+}
+.y-caption{
+    color: black;
+    font-family: "Raleway", sans-serif;
+    font-weight: 500;
+    font-size: 20px;
+    margin-top: -50px;
+    margin-left: -220px;
+
+}
+.y-section{
+    display: flex;
+    flex-direction: row;
+    margin-top: 110px;
+    font-size: 20px;
+}
+.br-block1{
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: center;
+    padding-top: 250px;
+    gap: 70px;
+    color: black;
+    font-family: "Raleway", sans-serif;
+    font-weight: 500;
+}
+.download-block{
+    display: flex;
+    flex-wrap: wrap;
+    flex-flow: row wrap;
+    font-size: 20px;
+    gap: 240px;
+    margin-left: -170px;
+}

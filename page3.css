@@ -1,0 +1,23 @@
+.body-page3{
+    height: 1000px;
+    width: 1200px;
+    background-color: #232728;
+}
+.y-choice-caption{
+    color: white;
+    font-family: "Raleway", sans-serif;
+    font-weight: 500;
+    font-size: 70px;
+    text-align: center;
+    position: relative;
+    margin-left: 250px;
+}
+.avto-type-spisok{
+    font-size: 50px;
+    line-height: 2;
+    margin-top: 55px;
+    margin-left: 55px;
+    color: white;
+    font-family: "Raleway", sans-serif;
+    font-weight: 500;
+}

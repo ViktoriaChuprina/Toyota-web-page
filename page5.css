@@ -1,0 +1,69 @@
+.main-page2{
+    width: 1600px;
+    height: 4100px;
+}
+.spisok-sett-yl,.spisok-sett-yl1{
+    display: flex;
+    flex-direction: column;
+    margin-left: 400px;
+
+}
+.sp-s-yl,.sp-s-yl1{
+    line-height: 2.3;
+    color: black;
+    font-family: "Raleway", sans-serif;
+    font-weight: 500;
+    font-size: 40px;
+}
+.yl-photo{
+    display: flex;
+    justify-content: end;
+    margin-top: -690px;
+}
+.ylp{
+    width: 650px;
+    height: 427px;
+}
+.yl-btn{
+    display: flex;
+    justify-content: center;
+    margin-top: 500px;
+    padding-top: 100px;
+}
+.btn-yl-s{
+    color: black;
+    border: 5px solid black;
+    background-color: white;
+    width: 597px;
+    height: 146px;
+    border-radius: 50px;
+    font-family: "Raleway", sans-serif;
+    font-weight: 500;
+    font-size: 40px;
+}
+.cart-item-car{
+    display:  flex;
+    flex-direction: row;
+    gap: 20px;
+    justify-content: end;
+    margin-right: 40px;
+    margin-top: -185px;
+}
+.cart-item{
+    width: 100px;
+    height: 100px;
+}
+.cirl-zero{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 30px;
+    height: 30px;
+    background-color: #7F1C1C;
+    border-radius: 50px;
+    margin-top: 50px;
+    margin-left: -40px;
+    color: white;
+    font-family: "Raleway", sans-serif;
+    font-weight: 500;
+}
